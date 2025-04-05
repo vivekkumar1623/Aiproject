@@ -1,0 +1,22 @@
+Historical Missions:
+Apollo Program: (NASA) - Included missions like Apollo 11 (first lunar landing)
+Vostok and Voskhod: (Soviet Union) - Early Soviet manned spaceflights
+Gemini Program: (NASA) - Precursor to the Apollo program, testing equipment and procedures
+Skylab: (NASA) - An early space station
+Space Shuttle Program: (NASA) - Columbia, Challenger, Discovery, Atlantis, Endeavour 
+
+Ongoing and Upcoming Missions:
+International Space Station (ISS): (International) - A multi-national space station in orbit
+Artemis Program: (NASA) - Missions to the Moon, including Artemis I and Artemis II
+James Webb Space Telescope: (NASA) - A powerful space telescope
+Perseverance Mars Rover: (NASA) - Mission to Mars
+Parker Solar Probe: (NASA) - Mission to the Sun
+Europa Clipper: (NASA) - Mission to Jupiter's moon Europa
+Chandrayaan-3: (ISRO) - Indian lunar mission
+Aditya-L1: (ISRO) - India's first solar mission
+BepiColombo: (ESA/JAXA) - Mission to Mercury
+Tianwen-1: (CNSA) - Chinese Mars mission
+Hayabusa2: (JAXA) - Sample return mission to asteroid Ryugu
+Lucy: (NASA) - Mission to Jupiter's Trojan asteroids
+DAVINCI: (NASA) - Mission to Venus
+Comet Interceptor: (ESA) - Mission to study a comet 
